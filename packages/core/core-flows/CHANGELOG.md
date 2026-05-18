@@ -1,5 +1,18 @@
 # @medusajs/core-flows
 
+## 2.15.3
+
+### Patch Changes
+
+- [#15396](https://github.com/medusajs/medusa/pull/15396) [`d0f4df0c6307555737a46f54ab7b99dd81c6c75b`](https://github.com/medusajs/medusa/commit/d0f4df0c6307555737a46f54ab7b99dd81c6c75b) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(core-flows,types): surface skipped promo codes due to budget/promotion limits
+
+- [#15159](https://github.com/medusajs/medusa/pull/15159) [`ad14455d087d045eba3b3197ac37bf66e42d4e64`](https://github.com/medusajs/medusa/commit/ad14455d087d045eba3b3197ac37bf66e42d4e64) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(core-flows): fix incorrect stock location picked for item with backorder in a sales channel with multiple locations
+
+- [#15397](https://github.com/medusajs/medusa/pull/15397) [`d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418`](https://github.com/medusajs/medusa/commit/d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(inventory,core-flows,medusa): add missing locking to reservation steps
+
+- Updated dependencies []:
+  - @medusajs/framework@2.15.3
+
 ## 2.15.2
 
 ### Patch Changes

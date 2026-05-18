@@ -1,5 +1,68 @@
 # Change Log
 
+## 2.15.3
+
+### Patch Changes
+
+- [#15396](https://github.com/medusajs/medusa/pull/15396) [`d0f4df0c6307555737a46f54ab7b99dd81c6c75b`](https://github.com/medusajs/medusa/commit/d0f4df0c6307555737a46f54ab7b99dd81c6c75b) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(core-flows,types): surface skipped promo codes due to budget/promotion limits
+
+- [#15397](https://github.com/medusajs/medusa/pull/15397) [`d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418`](https://github.com/medusajs/medusa/commit/d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(inventory,core-flows,medusa): add missing locking to reservation steps
+
+- Updated dependencies [[`d0f4df0c6307555737a46f54ab7b99dd81c6c75b`](https://github.com/medusajs/medusa/commit/d0f4df0c6307555737a46f54ab7b99dd81c6c75b), [`ad14455d087d045eba3b3197ac37bf66e42d4e64`](https://github.com/medusajs/medusa/commit/ad14455d087d045eba3b3197ac37bf66e42d4e64), [`d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418`](https://github.com/medusajs/medusa/commit/d36790f6ccc1a8d7fa729027f9e9d75ad8c9d418)]:
+  - @medusajs/core-flows@2.15.3
+  - @medusajs/inventory@2.15.3
+  - @medusajs/framework@2.15.3
+  - @medusajs/event-bus-redis@2.15.3
+  - @medusajs/admin-bundler@2.15.3
+  - @medusajs/draft-order@2.15.3
+  - @medusajs/analytics@2.15.3
+  - @medusajs/api-key@2.15.3
+  - @medusajs/auth@2.15.3
+  - @medusajs/cache-inmemory@2.15.3
+  - @medusajs/cache-redis@2.15.3
+  - @medusajs/caching@2.15.3
+  - @medusajs/cart@2.15.3
+  - @medusajs/currency@2.15.3
+  - @medusajs/customer@2.15.3
+  - @medusajs/event-bus-local@2.15.3
+  - @medusajs/file@2.15.3
+  - @medusajs/fulfillment@2.15.3
+  - @medusajs/index@2.15.3
+  - @medusajs/link-modules@2.15.3
+  - @medusajs/locking@2.15.3
+  - @medusajs/notification@2.15.3
+  - @medusajs/order@2.15.3
+  - @medusajs/payment@2.15.3
+  - @medusajs/pricing@2.15.3
+  - @medusajs/product@2.15.3
+  - @medusajs/promotion@2.15.3
+  - @medusajs/analytics-local@2.15.3
+  - @medusajs/analytics-posthog@2.15.3
+  - @medusajs/auth-emailpass@2.15.3
+  - @medusajs/auth-github@2.15.3
+  - @medusajs/auth-google@2.15.3
+  - @medusajs/caching-redis@2.15.3
+  - @medusajs/file-local@2.15.3
+  - @medusajs/file-s3@2.15.3
+  - @medusajs/fulfillment-manual@2.15.3
+  - @medusajs/locking-postgres@2.15.3
+  - @medusajs/locking-redis@2.15.3
+  - @medusajs/notification-local@2.15.3
+  - @medusajs/notification-sendgrid@2.15.3
+  - @medusajs/payment-stripe@2.15.3
+  - @medusajs/rbac@2.15.3
+  - @medusajs/region@2.15.3
+  - @medusajs/sales-channel@2.15.3
+  - @medusajs/settings@2.15.3
+  - @medusajs/stock-location@2.15.3
+  - @medusajs/store@2.15.3
+  - @medusajs/tax@2.15.3
+  - @medusajs/translation@2.15.3
+  - @medusajs/user@2.15.3
+  - @medusajs/workflow-engine-inmemory@2.15.3
+  - @medusajs/workflow-engine-redis@2.15.3
+  - @medusajs/telemetry@2.15.3
+
 ## 2.15.2
 
 ### Patch Changes
